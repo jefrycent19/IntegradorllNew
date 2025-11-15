@@ -2,9 +2,9 @@
 // config.php
 // Ajusta a tu entorno XAMPP/SQLyog.
 return [
-    'db_host' => '10.50.31.71',
-    'db_name' => 'integradorll',
-    'db_user' => 'webuser',
-    'db_pass' => '12345',
+    'db_host' => '127.0.0.1',
+    'db_name' => 'dietdb',
+    'db_user' => 'root',
+    'db_pass' => '',
     'db_charset' => 'utf8mb4',
 ];
