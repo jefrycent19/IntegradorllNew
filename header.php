@@ -65,13 +65,18 @@
 </head>
 <body>
 <div class="layout">
-  <aside class="sidebar">
-    <div class="brand"><span class="dot"></span><span>Dieta Proyyy</span></div>
+  <!-- Cambiamos el color de fondo del sidebar -->
+  <aside class="sidebar" style="background-color: #1e293b;">
+    <!-- Cambiamos color del texto "Dieta Pro" -->
+    <div class="brand">
+      <span class="dot" style="background-color: #22c55e;"></span>
+      <span style="color: #38bdf8; font-weight: bold;">Dieta Pro</span>
+    </div>
     <div class="nav-section">
       <div class="nav-title">Menú</div>
       <a class="nav-link <?= basename($_SERVER['PHP_SELF'])==='index.php'?'active':'' ?>" href="index.php"><span>🏠</span><span>Dashboard</span></a>
       <a class="nav-link <?= in_array(basename($_SERVER['PHP_SELF']),['diets.php','diet_form.php'])?'active':'' ?>" href="diets.php"><span>🥗</span><span>Dietas</span></a>
-      <a class="nav-link <?= in_array(basename($_SERVER['PHP_SELF']),['meals.php','meal_form.php'])?'active':'' ?>" href="diets.php"><span>🍽️</span><span>Comidas</span></a>
+      <a class="nav-link <?= in_array(basename($_SERVER['PHP_SELF']),['meals.php','meal_form.php'])?'active':'' ?>" href="diets.php"><span>🍽️</span><span style="color:#f97316;">Comidas</span></a>
     </div>
   </aside>
 
