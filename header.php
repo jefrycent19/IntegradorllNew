@@ -66,7 +66,7 @@
 <body>
 <div class="layout">
   <aside class="sidebar">
-    <div class="brand"><span class="dot"></span><span>Dieta Pro</span></div>
+    <div class="brand"><span class="dot"></span><span>Dieta Proyyy</span></div>
     <div class="nav-section">
       <div class="nav-title">Menú</div>
       <a class="nav-link <?= basename($_SERVER['PHP_SELF'])==='index.php'?'active':'' ?>" href="index.php"><span>🏠</span><span>Dashboard</span></a>
