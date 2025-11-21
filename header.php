@@ -70,7 +70,7 @@
     <!-- Cambiamos color del texto "Dieta Pro" -->
     <div class="brand">
       <span class="dot" style="background-color: #22c55e;"></span>
-      <span style="color: #38bdf8; font-weight: bold;">Dieta Proyt mechhon</span>
+      <span style="color: #38bdf8; font-weight: bold;">Dieta Proisaac</span>
     </div>
     <div class="nav-section">
       <div class="nav-title">Menú</div>
