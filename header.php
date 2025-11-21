@@ -65,7 +65,7 @@
 </head>
 <body>
 <div class="layout">
-  <!-- Cambiamos el color de fondo del sidebar -->
+  <!-- Cambiamos el color de fondooo del sidebar -->
   <aside class="sidebar" style="background-color: #1e293b;">
     <!-- Cambiamos color del texto "Dieta Pro" -->
     <div class="brand">
