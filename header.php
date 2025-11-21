@@ -67,7 +67,7 @@
 <div class="layout">
   <!-- Cambiamos el color de fondooo del sidebar -->
   <aside class="sidebar" style="background-color: #1e293b;">
-    <!-- Cambiamos color del texto "Dieta Pro" -->
+    <!-- Cambiamos color del texto "Dieta Proo" -->
     <div class="brand">
       <span class="dot" style="background-color: #22c55e;"></span>
       <span style="color: #38bdf8; font-weight: bold;">Dieta Diets</span>
@@ -83,7 +83,7 @@
   <header class="topbar">
     <div>
       <div class="title"><?= htmlspecialchars(ucfirst(pathinfo($_SERVER['PHP_SELF'], PATHINFO_FILENAME))) ?></div>
-      <div class="hint">Integradorll · Sistema de Dieta</div>
+      <div class="hint">Integradorll · Sistema de Dietas</div>
     </div>
     <div><!-- espacio para perfil/futuras acciones --></div>
   </header>
