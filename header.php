@@ -1,4 +1,4 @@
-<?php // header.php - Layout moderno con sidebar HOla isac+ topbar (colores sólidos) ?>
+<?php // header.php - Layout moderno con sidebar topbar (colores sólidos) ?>
 <!doctype html>
 <html lang="es">
 <head>

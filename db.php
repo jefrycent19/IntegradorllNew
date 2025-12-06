@@ -1,5 +1,5 @@
 <?php
-// db.php — conexión PDO centralizada y escape HTML
+// db.php — conexión PDO centralizada y escape H
 function db(): PDO {
     static $pdo = null;
     if ($pdo) return $pdo;
