@@ -1,6 +1,6 @@
 <?php
 // config.php
-// Ajusta a tu entorno XAMPP/SQLyog
+// Ajusta a tu entorno XAMPP/SQLite
 return [
     'db_host' => '140.0.10.3',
     'db_name' => 'integradorll',
